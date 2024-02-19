@@ -6,13 +6,13 @@
 
 }
 
-header{
-
-  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./montgolfiere.jpg);
-  height:100vh;
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://raw.githubusercontent.com/username/repository/branch/path/to/montgolfiere.jpg);
+  height: 100vh;
   background-size: cover;
-  background-position:center ;
+  background-position: center;
 }
+
 
 .logo a{
   color :#fff;
